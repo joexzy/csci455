@@ -1,4 +1,4 @@
-CS 455 Programming Assignment 1
+CS 455 Programming Assignment 1 —— Coin Toss Simulation
 ===============================
 Introduction
 -------------

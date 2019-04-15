@@ -1,4 +1,4 @@
-CS 455 Programming Assignment 3
+CS 455 Programming Assignment 3 —— MineSweeper
 ===============================
 
 Introduction
@@ -16,5 +16,3 @@ The assignment
 
 Write the main logic of a program to play the game Minesweeper. To keep the scope of this assignment reasonable, we have created the object-oriented design for this program, and have implemented the GUI for you.
 Minesweeper is a game where mines are hidden in various random locations in a two-dimensional minefield. The player has to figure out where all the mines are without exploding a mine. They do this by repeatedly uncovering locations, and guessing mine locations, until they uncover all of the non-mine locations (win) or they explode a mine (lose). This is more than a game of chance, because when a non-mine square is uncovered it displays the number of mines adjacent to that square. You can use that information to figure out where the mines are (or at least narrow down their locations).
-
-The rest of this section describes the game in somewhat gory detail. You do not need to know all of the details (e.g., of exactly how the display changes) to actually play the game yourself. And the first part of your homework is to go out and play several games of minesweeper to get an idea of how it works. If you have never played before, you probably want to start out with beginner mode (9 x 9 field, 10 mines). There are many versions of this game. It's been on Windows forever, and probably is still. Here is a free web-based version. There are also a few free smart-phone minesweeper apps. Just don't get hooked, like I did, or you'll never get to your assignment!

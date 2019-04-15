@@ -16,17 +16,30 @@ For example, if your rack had the letters C M A L you could rearrange the letter
 For your program, you will display all such words, with the corresponding Scrabble score for each word, in decreasing order by score. For words with the same scrabble score, the words must appear in alphabetical order. Here are the results for a rack consisting of "cmal" (using the sowpods dictionary) in the output format you will be using for your program (user input is shown in italics):
 
 Rack? cmal
+
 We can make 11 words from "cmal"
+
 All of the words with their scores (sorted by score):
+
 8: calm
+
 8: clam
+
 7: cam
+
 7: mac
+
 5: lac
+
 5: lam
+
 5: mal
+
 4: am
+
 4: ma
+
 2: al
+
 2: la
 

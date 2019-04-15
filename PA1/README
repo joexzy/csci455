@@ -1,0 +1,57 @@
+Name: Ziyi Xu
+USC NetId: 3421876889
+CSCI 455 PA1
+Fall 2018
+
+----------------------------------------------
+CERTIFY IT'S YOUR WORK
+
+"I certify that the work submitted for this assignment does not
+violate USC's student conduct code.  In particular, the work is my
+own, not a collaboration, and does not involve code created by other
+people, except for the the resources explicitly mentioned in the CS 455
+Course Syllabus.  And I did not share my solution or parts of it with
+other students in the course."
+
+Initial below to "sign" the above statement:
+
+ZYX
+----------------------------------------------
+ACKNOWLEDGE ANY OUTSIDE SOURCES
+
+List here any code you submitted for this assignment that was written
+with significant help of a course staff member, or code used from the
+textbook.  Be specific about what methods or algorithms are involved,
+and what sections of the textbook are involved (if applicable): [you do
+not need to list any of the code that we wrote for the assignment,
+i.e., the contents of the starter files for the assignment]
+
+
+The code in line 85-88 of Bar.java is from 2.10.4 in textbook.
+To get a random number in CoinTossSimulator.java, I used the code in 6.9.1 in textbook.
+----------------------------------------------
+KNOWN BUGS or LIMITATIONS:
+
+
+
+----------------------------------------------
+ANY OTHER NOTES FOR THE GRADER:
+
+
+
+----------------------------------------------
+ANSWERS TO ASSIGNMENT README QUESTIONS (if applicable):
+
+1. The code written by the course staff for the purposes of helping students in the course, or the code from the textbook for this
+course.
+
+2. Two heads: 25%, Two Tails: 25%, One head and one tail： 50%
+Suppose there are a coin A and a coin B. And we definite 1 as the head of a coin, 0 as the tail of a coin. There are 4 results : A1B1, A1B0 , A0B0 and A0B1. These 4 events have the same probability. So one head and one tail could have the probability of 50 percent which is different from the others.
+
+3. 900.
+
+4. 2000000000 
+The largest number I have tried is 2100000000 where it worked correctly. And 2200000000 would make it overflowed.
+
+
+

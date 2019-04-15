@@ -15,10 +15,16 @@ We recommend you finish playing Horstmann's example game, started above, to see 
 To make it easier to test your code, your program will be able to be run in a few different modes, each of these controlled by a command-line argument. The user may supply one or both of the arguments, or neither.
 
 -u
+
 Prompts for the initial configuration from the user, instead of generating a random configuration.
+
 -s
+
 Stops between every round of the game. The game only continues when the user hits enter (a.k.a., return).
 Command-line argument processing is discussed in section 11.3 of the Horstmann text. But to make things a little easier, we wrote the code for processing the command-line arguments for you. It appears in starter code you get in the main method in BulgarianSolitaireSimulator.java. Here are a few examples of ways to run the program in the Linux shell:
+
 java -ea BulgarianSolitaireSimulator -u
+
 java -ea BulgarianSolitaireSimulator -u -s
+
 java -ea BulgarianSolitaireSimulator

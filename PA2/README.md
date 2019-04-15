@@ -1,4 +1,4 @@
-CS 455 Programming Assignment 2
+CS 455 Programming Assignment 2 —— Bulgarian Solitaire
 ===============================
 Introduction
 ------------
@@ -22,7 +22,3 @@ Command-line argument processing is discussed in section 11.3 of the Horstmann t
 java -ea BulgarianSolitaireSimulator -u
 java -ea BulgarianSolitaireSimulator -u -s
 java -ea BulgarianSolitaireSimulator
-[Note: recall you are using the -ea argument for assertion-checking. The arguments after the program name are the ones that get sent to your program.]
-There are more details about exactly what your output should look like in each of these operation modes in the section on the BulgarianSolitaireSimulator program.
-
-Some of the requirements for the program relate to efficiency, testing, and style/design, as well as functionality. They are described in detail in the following sections of the document, and then summarized near the end of the document.

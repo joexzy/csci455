@@ -1,4 +1,4 @@
-CS 455 Programming Assignment 5
+CS 455 Programming Assignment 5 —— Hash table implementation
 ================================
 
 Introduction and Background
